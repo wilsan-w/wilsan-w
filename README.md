@@ -1,16 +1,66 @@
-## Hi there 👋
+<header>
+  <!-- Optional Banner (you can add one later if you want) -->
+</header>
 
-<!--
-**wilsan-w/wilsan-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+  <h1 align="center">Wilsan Waberi</h1>
+  <p align="center">Computer Engineering Student • AI Enthusiast • Builder</p>
+</header>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+Hi, I’m **Wilsan**, a Computer Engineering student passionate about solving problems through **software and hardware integration**.  
+I’m curious about how technology can push the boundaries of automation, intelligence, and human interaction with machines.  
+
+I enjoy working on projects that blend **programming, electronics, and design**, and I’m constantly exploring new ways to learn and grow as a developer.
+
+---
+
+### 🛠️ Skills & Tools
+**Languages**  
+- Python • Java • C++ • HTML • CSS  
+
+**Frameworks / Libraries**  
+- React (web development)  
+- Node.js (backend & APIs)  
+- TensorFlow (AI & machine learning)  
+- ROS (robotics middleware)  
+
+**Tools / Platforms**  
+- Git • Arduino • Visual Studio Code • Linux  
+
+---
+
+### 📌 Current Projects
+- 🚀 *Personal portfolio website* – currently under construction to showcase my work.  
+- 🖥️ *Exploring AI projects* – small experiments with Python & TensorFlow.  
+- 🔧 *Arduino builds* – hands-on electronics and embedded systems projects.  
+
+---
+
+### 📚 Learning & Interests
+- **Currently learning**: Web development with React & Node.js, strengthening data structures & algorithms.  
+- **Future directions**: Computer vision, embedded AI, and robotics platforms like ROS and FPGA design.  
+
+---
+
+### 📬 How to Reach Me
+- 🌐 Personal website: *coming soon*  
+- 📧 Email: **wilsan.wab22@gmail.com**  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilsan-w&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsan-w&theme=radical&cache_seconds=1800" />
+</div>
+
+---
+
+### 🎯 Fun & Personal
+- **Motto / Quote**: *“Stay consistent, stay disciplined, and results will follow.”*  
+- **Hobbies**: Gym • Martial arts • Reading books  
+
+---
