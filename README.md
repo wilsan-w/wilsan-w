@@ -1,5 +1,5 @@
 <header>
-  <!-- Optional Banner (you can add one later if you want) -->
+  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg"/>
 </header>
 
 <header>
