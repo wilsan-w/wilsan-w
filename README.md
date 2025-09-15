@@ -62,5 +62,3 @@ I enjoy working on projects that blend **programming, electronics, and design**,
 ### 🎯 Fun & Personal
 - **Motto / Quote**: *“Stay consistent, stay disciplined, and results will follow.”*  
 - **Hobbies**: Gym • Martial arts • Reading books  
-
----
