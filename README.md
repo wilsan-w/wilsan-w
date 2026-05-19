@@ -111,13 +111,6 @@ Relevant coursework:
 
 ---
 
-## Awards
-
-- Fondation de l’Ordre des Ingénieurs du Québec — $3,000 Scholarship
-- Perspective Québec — $5,000 Scholarship
-- CSSFUND — $1,000 Scholarship
-
----
 
 ## GitHub Stats
 
