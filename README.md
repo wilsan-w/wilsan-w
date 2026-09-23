@@ -8,7 +8,7 @@
 
 Building software and hardware-integrated systems with a focus on embedded engineering, automation, and intelligent interfaces.
 
-[LinkedIn](https://linkedin.com/in/wilsan-waberi) • [Email](mailto:wilsan.wab22@gmail.com)
+[LinkedIn](https://linkedin.com/in/wilsan-waberi) • [Email](mailto:wilsan.wab22@gmail.com) • [Portfolio]([mailto:wilsan.wab22@gmail.com](https://wilsan-waberi.vercel.app/))
 
 </div>
 
